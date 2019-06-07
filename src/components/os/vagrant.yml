@@ -27,12 +27,12 @@ core:
           datetime:
             timezone: W. Europe Standard Time
 
-w10e:
+visual-studio:
   includes:
     - components/os/core
-  box: w10e
+  box: visual-studio
 
-w16s:
+windows-10:
   includes:
     - components/os/core
-  box: w16s
+  box: windows-10

@@ -1,0 +1,19 @@
+{
+  "name": "windows-10",
+  "versions": [
+    {
+      "version": "1905.0.0",
+      "status": "active",
+      "providers": [
+        {
+          "name": "hyperv",
+          "url": "https://vagrantcloud.com/gusztavvargadr/boxes/windows-10/versions/1905.0.0/providers/hyperv.box"
+        },
+        {
+          "name": "virtualbox",
+          "url": "https://vagrantcloud.com/gusztavvargadr/boxes/windows-10/versions/1905.0.0/providers/virtualbox.box"
+        }
+      ]
+    }
+  ]
+}

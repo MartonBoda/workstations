@@ -16,4 +16,4 @@ management:
 engine:
   includes:
     - stacks/sql/core
-    - components/sql/v17d
+    - components/sql/sql-server

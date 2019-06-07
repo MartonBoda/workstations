@@ -1,6 +1,6 @@
 core:
   includes:
-    - components/vs/v17c
+    - components/vs/visual-studio
     - components/nuget/core
 
 library:
