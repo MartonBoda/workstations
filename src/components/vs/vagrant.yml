@@ -12,5 +12,5 @@ core:
 
 visual-studio:
   includes:
-      - components/vs/core
-    box: visual-studio
+    - components/vs/core
+  box: visual-studio
