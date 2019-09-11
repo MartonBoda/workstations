@@ -12,5 +12,6 @@ core:
               install:
                 params: "'/GitAndUnixToolsOnPath /NoAutoCrlf /NoShellIntegration'"
             poshgit:
+            sourcetree:
           files:
             file:///vagrant-workstations/src/components/git/.gitconfig: /Users/vagrant/.gitconfig

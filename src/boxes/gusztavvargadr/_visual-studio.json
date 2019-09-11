@@ -1,0 +1,19 @@
+{
+  "name": "gusztavvargadr/visual-studio",
+  "versions": [
+    {
+      "version": "2019.0.1905",
+      "status": "active",
+      "providers": [
+        {
+          "name": "hyperv",
+          "url": "https://vagrantcloud.com/gusztavvargadr/boxes/visual-studio/versions/2019.0.1905/providers/hyperv.box"
+        },
+        {
+          "name": "virtualbox",
+          "url": "https://vagrantcloud.com/gusztavvargadr/boxes/visual-studio/versions/2019.0.1905/providers/virtualbox.box"
+        }
+      ]
+    }
+  ]
+}

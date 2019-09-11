@@ -1,0 +1,19 @@
+{
+  "name": "gusztavvargadr/windows-10",
+  "versions": [
+    {
+      "version": "1809.0.1905",
+      "status": "active",
+      "providers": [
+        {
+          "name": "hyperv",
+          "url": "https://vagrantcloud.com/gusztavvargadr/boxes/windows-10/versions/1809.0.1905/providers/hyperv.box"
+        },
+        {
+          "name": "virtualbox",
+          "url": "https://vagrantcloud.com/gusztavvargadr/boxes/windows-10/versions/1809.0.1905/providers/virtualbox.box"
+        }
+      ]
+    }
+  ]
+}

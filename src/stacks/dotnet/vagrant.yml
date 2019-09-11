@@ -17,3 +17,4 @@ web:
           chocolatey:
             postman:
             fiddler:
+            linqpad:

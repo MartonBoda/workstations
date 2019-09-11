@@ -31,3 +31,9 @@ playground:
 private:
   includes:
     - components/os/windows-10
+
+iview:
+  includes:
+    - components/os/windows-server
+    - components/mongodb/core
+    - stacks/mongodb/management

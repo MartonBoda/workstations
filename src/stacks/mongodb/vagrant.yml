@@ -1,0 +1,13 @@
+core:
+  includes:
+    - components/mongodb/core
+
+management:
+  includes:
+    - stacks/mongodb/core
+  chef:
+    json:
+      gusztavvargadr_workstations_core:
+        tools:
+          chocolatey:
+            robo3t:

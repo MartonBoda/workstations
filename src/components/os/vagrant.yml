@@ -9,7 +9,7 @@ core:
         tools:
           chocolatey:
             conemu:
-            far:
+            totalcommander:
             treesizefree:
             visualstudiocode:
             beyondcompare:
@@ -18,14 +18,20 @@ core:
             lastpass:
             authy-desktop:
             keybase:
+            everything:
+            linkshellextension:
+            greenshot:
+            lockhunter:
+            synctrayzor:
+            sysinternals:
       gusztavvargadr_workstations_os:
         requirements:
           locales:
             system: en-US
             ui: en-US
-            user: nl-NL
+            user: en-US
           datetime:
-            timezone: W. Europe Standard Time
+            timezone: UTC
 
 visual-studio:
   includes:
@@ -36,3 +42,8 @@ windows-10:
   includes:
     - components/os/core
   box: windows-10
+
+windows-server:
+  includes:
+    - components/os/core
+  box: windows-server
